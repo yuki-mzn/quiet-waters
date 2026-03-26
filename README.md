@@ -12,7 +12,7 @@
 #### Method 1:
 1. Go to.
 #### Method 2:
-1. Clone the respository.
+1. Clone this respository.
 2. Open index.html in a local server (like Live Server in VS Code).
 
 ## Files In My Project
