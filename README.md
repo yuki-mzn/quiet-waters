@@ -9,9 +9,8 @@
 #### NOTE: This game may not be suitable for those with epilepsy, as one scene involves rapid flashing lights.
 
 ## How To Run The Project
-**Go to <URL HERE>.**
 #### Method 1:
-1. .
+1. Go to.
 #### Method 2:
 1. Clone the respository.
 2. Open index.html in a local server (like Live Server in VS Code).
