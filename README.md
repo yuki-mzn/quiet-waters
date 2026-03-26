@@ -4,7 +4,7 @@
 > As you pull strange trinkets and unsettling remains from the blue, the very world around you begins to shift. <br>
 > How long can you stay on the water before the insanity takes hold? <br>
 
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <https://youtu.be/PUzRuD-4Uc0>
 
 #### NOTE: This game may not be suitable for those with epilepsy, as one scene involves rapid flashing lights.
 
