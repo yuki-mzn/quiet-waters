@@ -10,7 +10,7 @@
 
 ## How To Run The Project
 #### Method 1:
-1. Go to.
+1. Go to <https://yuki-mzn.github.io/quiet-waters/>.
 #### Method 2:
 1. Clone this respository.
 2. Open index.html in a local server (like Live Server in VS Code).
